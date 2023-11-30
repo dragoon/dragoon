@@ -1,8 +1,6 @@
-![dragoon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dragoon&show_icons=true&locale=en&layout=compact&theme=dark&hide=Web%20Ontology%20Language,Jupyter%20Notebook#gh-dark-mode-only)
-![dragoon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dragoon&show_icons=true&locale=en&layout=compact&theme=default&hide=Web%20Ontology%20Language,Jupyter%20Notebook#gh-light-mode-only)
+![dragoon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dragoon&show_icons=true&locale=en&layout=compact&theme=transparent&hide=Web%20Ontology%20Language,Jupyter%20Notebook)
 &nbsp;&nbsp;&nbsp;
-![dragoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoon&show_icons=true&locale=en&theme=default#gh-light-mode-only)
-![dragoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoon&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)
+![dragoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoon&show_icons=true&locale=en&theme=transparent)
 
 ### Connect with me:
 
