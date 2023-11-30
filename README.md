@@ -4,5 +4,5 @@
 
 ### Connect with me:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Roman Prokofyev on Twitter" height="30" width="40" />](https://twitter.com/rprokofyev)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Roman Prokofyev on LinkedIn" height="30" width="40" />](https://linkedin.com/in/rprokofyev)
+[<img src="https://cdn.simpleicons.org/X/black/white" alt="Roman Prokofyev on Twitter" height="30" width="40" />](https://twitter.com/rprokofyev)
+[<img src="https://cdn.simpleicons.org/linkedin/black/0077b5" alt="Roman Prokofyev on LinkedIn" height="30" width="40" />](https://linkedin.com/in/rprokofyev)
